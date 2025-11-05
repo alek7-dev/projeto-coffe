@@ -237,7 +237,7 @@ body {
 }
 
 .footer-inner {
-  max-width: 1180px;
+  max-width: 90%;
   margin: 0 auto;
   position: relative;
 }
@@ -257,7 +257,7 @@ body {
 
 .footer-top p {
   margin: 0;
-  color: #2b2b2b;
+  color: #000000;
   line-height: 1.4;
 }
 
@@ -284,7 +284,7 @@ body {
   position: relative;
   z-index: 2;
   font-size: 0.95rem;
-  color: #2b2b2b;
+  color: #000000;
 }
 
 
@@ -296,7 +296,7 @@ body {
 }
 
 .back-text {
-  color: #2b2b2b;
+  color: #000000;
   font-size: 0.95rem;
 }
 
